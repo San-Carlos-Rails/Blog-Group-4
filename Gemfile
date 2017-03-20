@@ -2,6 +2,14 @@ source 'https://rubygems.org'
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
 
+gem 'faker',          '1.6.6'
+gem 'will_paginate',           '3.1.0'
+gem 'bootstrap-will_paginate', '0.0.10'
+
+gem 'carrierwave',             '0.11.2'
+gem 'mini_magick',             '4.5.1'
+gem 'fog',                     '1.38.0'
+
 gem 'rails',        '5.0.1'
 gem 'puma',         '3.4.0'
 gem 'sass-rails',   '5.0.6'
